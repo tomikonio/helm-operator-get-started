@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: shukiyahu/podinfo:dev-ne6brddz
+    image: shukiyahu/podinfo:dev-278744
     replicaCount: 1
     hpa:
       enabled: false
